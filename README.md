@@ -1,4 +1,4 @@
-# Game-Ideas
+# Game-Ideas :
 
 # Top Down
 # Platform
